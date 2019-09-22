@@ -1,0 +1,10 @@
+site_name: Minimum Viable Data Scientist
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - rust
+    - python
+    - shell
+    
